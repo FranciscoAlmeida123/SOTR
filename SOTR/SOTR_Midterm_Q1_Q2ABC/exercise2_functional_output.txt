@@ -1,0 +1,36 @@
+00.100 Source    counter=1
+00.100 Processor counter=1 average=1.000
+00.100 Output    average=1.000
+00.200 Source    counter=2
+00.200 Processor counter=2 average=1.500
+00.200 Output    average=1.500
+00.300 Source    counter=3
+00.300 Processor counter=3 average=2.000
+00.300 Output    average=2.000
+00.400 Source    counter=4
+00.400 Processor counter=4 average=3.000
+00.400 Output    average=3.000
+00.500 Source    counter=5
+00.500 Processor counter=5 average=4.000
+00.500 Output    average=4.000
+00.600 Source    counter=6
+00.600 Processor counter=6 average=5.000
+00.600 Output    average=5.000
+00.700 Source    counter=7
+00.700 Processor counter=7 average=6.000
+00.700 Output    average=6.000
+00.800 Source    counter=8
+00.800 Processor counter=8 average=7.000
+00.800 Output    average=7.000
+00.900 Source    counter=9
+00.900 Processor counter=9 average=8.000
+00.900 Output    average=8.000
+01.000 Source    counter=10
+01.000 Processor counter=10 average=9.000
+01.000 Output    average=9.000
+01.100 Source    counter=11
+01.100 Processor counter=11 average=10.000
+01.100 Output    average=10.000
+01.200 Source    counter=12
+01.200 Processor counter=12 average=11.000
+01.200 Output    average=11.000
