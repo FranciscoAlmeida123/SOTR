@@ -1,0 +1,2208 @@
+Thread 1 starting ... 
+Thread 1 a executar no CPU 0
+Thread 3 starting ... 
+Thread 3 a executar no CPU 0
+Thread 2 starting ... 
+Thread 2 a executar no CPU 0
+
+The average is: 1.00
+Time: 00.103 s
+
+The average is: 1.50
+Time: 00.203 s
+
+The average is: 2.00
+Time: 00.303 s
+
+The average is: 3.00
+Time: 00.403 s
+
+The average is: 4.00
+Time: 00.503 s
+
+The average is: 5.00
+Time: 00.603 s
+
+The average is: 6.00
+Time: 00.703 s
+
+The average is: 7.00
+Time: 00.803 s
+
+The average is: 8.00
+Time: 00.903 s
+
+The average is: 9.00
+Time: 01.003 s
+
+The average is: 10.00
+Time: 01.103 s
+
+The average is: 11.00
+Time: 01.203 s
+
+The average is: 12.00
+Time: 01.303 s
+
+The average is: 13.00
+Time: 01.403 s
+
+The average is: 14.00
+Time: 01.503 s
+
+The average is: 15.00
+Time: 01.603 s
+
+The average is: 16.00
+Time: 01.703 s
+
+The average is: 17.00
+Time: 01.803 s
+
+The average is: 18.00
+Time: 01.903 s
+
+The average is: 19.00
+Time: 02.003 s
+
+The average is: 20.00
+Time: 02.103 s
+
+The average is: 21.00
+Time: 02.203 s
+
+The average is: 22.00
+Time: 02.303 s
+
+The average is: 23.00
+Time: 02.403 s
+
+The average is: 24.00
+Time: 02.503 s
+
+The average is: 25.00
+Time: 02.603 s
+
+The average is: 26.00
+Time: 02.703 s
+
+The average is: 27.00
+Time: 02.803 s
+
+The average is: 28.00
+Time: 02.903 s
+
+The average is: 29.00
+Time: 03.003 s
+
+The average is: 30.00
+Time: 03.103 s
+
+The average is: 31.00
+Time: 03.203 s
+
+The average is: 32.00
+Time: 03.303 s
+
+The average is: 33.00
+Time: 03.403 s
+
+The average is: 34.00
+Time: 03.503 s
+
+The average is: 35.00
+Time: 03.603 s
+
+The average is: 36.00
+Time: 03.703 s
+
+The average is: 37.00
+Time: 03.803 s
+
+The average is: 38.00
+Time: 03.903 s
+
+The average is: 39.00
+Time: 04.003 s
+
+The average is: 40.00
+Time: 04.103 s
+
+The average is: 41.00
+Time: 04.203 s
+
+The average is: 42.00
+Time: 04.303 s
+
+The average is: 43.00
+Time: 04.403 s
+
+The average is: 44.00
+Time: 04.503 s
+
+The average is: 45.00
+Time: 04.603 s
+
+The average is: 46.00
+Time: 04.703 s
+
+The average is: 47.00
+Time: 04.803 s
+
+The average is: 48.00
+Time: 04.903 s
+
+The average is: 49.00
+Time: 05.003 s
+
+The average is: 50.00
+Time: 05.103 s
+
+The average is: 51.00
+Time: 05.203 s
+
+The average is: 52.00
+Time: 05.303 s
+
+The average is: 53.00
+Time: 05.403 s
+
+The average is: 54.00
+Time: 05.503 s
+
+The average is: 55.00
+Time: 05.603 s
+
+The average is: 56.00
+Time: 05.703 s
+
+The average is: 57.00
+Time: 05.803 s
+
+The average is: 58.00
+Time: 05.903 s
+
+The average is: 59.00
+Time: 06.003 s
+
+The average is: 60.00
+Time: 06.103 s
+
+The average is: 61.00
+Time: 06.203 s
+
+The average is: 62.00
+Time: 06.303 s
+
+The average is: 63.00
+Time: 06.403 s
+
+The average is: 64.00
+Time: 06.503 s
+
+The average is: 65.00
+Time: 06.603 s
+
+The average is: 66.00
+Time: 06.703 s
+
+The average is: 67.00
+Time: 06.803 s
+
+The average is: 68.00
+Time: 06.903 s
+
+The average is: 69.00
+Time: 07.003 s
+
+The average is: 70.00
+Time: 07.103 s
+
+The average is: 71.00
+Time: 07.203 s
+
+The average is: 72.00
+Time: 07.303 s
+
+The average is: 73.00
+Time: 07.403 s
+
+The average is: 74.00
+Time: 07.503 s
+
+The average is: 75.00
+Time: 07.603 s
+
+The average is: 76.00
+Time: 07.703 s
+
+The average is: 77.00
+Time: 07.803 s
+
+The average is: 78.00
+Time: 07.903 s
+
+The average is: 79.00
+Time: 08.003 s
+
+The average is: 80.00
+Time: 08.103 s
+
+The average is: 81.00
+Time: 08.203 s
+
+The average is: 82.00
+Time: 08.303 s
+
+The average is: 83.00
+Time: 08.403 s
+
+The average is: 84.00
+Time: 08.503 s
+
+The average is: 85.00
+Time: 08.603 s
+
+The average is: 86.00
+Time: 08.703 s
+
+The average is: 87.00
+Time: 08.803 s
+
+The average is: 88.00
+Time: 08.903 s
+
+The average is: 89.00
+Time: 09.003 s
+
+The average is: 90.00
+Time: 09.103 s
+
+The average is: 91.00
+Time: 09.203 s
+
+The average is: 92.00
+Time: 09.303 s
+
+The average is: 93.00
+Time: 09.403 s
+
+The average is: 94.00
+Time: 09.503 s
+
+The average is: 95.00
+Time: 09.603 s
+
+The average is: 96.00
+Time: 09.703 s
+
+The average is: 97.00
+Time: 09.803 s
+
+The average is: 98.00
+Time: 09.903 s
+
+The average is: 99.00
+Time: 10.003 s
+
+The average is: 100.00
+Time: 10.103 s
+
+The average is: 101.00
+Time: 10.203 s
+
+The average is: 102.00
+Time: 10.303 s
+
+The average is: 103.00
+Time: 10.403 s
+
+The average is: 104.00
+Time: 10.503 s
+
+The average is: 105.00
+Time: 10.603 s
+
+The average is: 106.00
+Time: 10.703 s
+
+The average is: 107.00
+Time: 10.803 s
+
+The average is: 108.00
+Time: 10.903 s
+
+The average is: 109.00
+Time: 11.003 s
+
+The average is: 110.00
+Time: 11.103 s
+
+The average is: 111.00
+Time: 11.203 s
+
+The average is: 112.00
+Time: 11.303 s
+
+The average is: 113.00
+Time: 11.403 s
+
+The average is: 114.00
+Time: 11.503 s
+
+The average is: 115.00
+Time: 11.603 s
+
+The average is: 116.00
+Time: 11.703 s
+
+The average is: 117.00
+Time: 11.803 s
+
+The average is: 118.00
+Time: 11.903 s
+
+The average is: 119.00
+Time: 12.003 s
+
+The average is: 120.00
+Time: 12.103 s
+
+The average is: 121.00
+Time: 12.203 s
+
+The average is: 122.00
+Time: 12.303 s
+
+The average is: 123.00
+Time: 12.403 s
+
+The average is: 124.00
+Time: 12.503 s
+
+The average is: 125.00
+Time: 12.603 s
+
+The average is: 126.00
+Time: 12.703 s
+
+The average is: 127.00
+Time: 12.803 s
+
+The average is: 128.00
+Time: 12.903 s
+
+The average is: 129.00
+Time: 13.003 s
+
+The average is: 130.00
+Time: 13.103 s
+
+The average is: 131.00
+Time: 13.203 s
+
+The average is: 132.00
+Time: 13.303 s
+
+The average is: 133.00
+Time: 13.403 s
+
+The average is: 134.00
+Time: 13.503 s
+
+The average is: 135.00
+Time: 13.603 s
+
+The average is: 136.00
+Time: 13.703 s
+
+The average is: 137.00
+Time: 13.803 s
+
+The average is: 138.00
+Time: 13.903 s
+
+The average is: 139.00
+Time: 14.003 s
+
+The average is: 140.00
+Time: 14.103 s
+
+The average is: 141.00
+Time: 14.203 s
+
+The average is: 142.00
+Time: 14.303 s
+
+The average is: 143.00
+Time: 14.403 s
+
+The average is: 144.00
+Time: 14.503 s
+
+The average is: 145.00
+Time: 14.603 s
+
+The average is: 146.00
+Time: 14.703 s
+
+The average is: 147.00
+Time: 14.803 s
+
+The average is: 148.00
+Time: 14.903 s
+
+The average is: 149.00
+Time: 15.003 s
+
+The average is: 150.00
+Time: 15.103 s
+
+The average is: 151.00
+Time: 15.203 s
+
+The average is: 152.00
+Time: 15.303 s
+
+The average is: 153.00
+Time: 15.403 s
+
+The average is: 154.00
+Time: 15.503 s
+
+The average is: 155.00
+Time: 15.603 s
+
+The average is: 156.00
+Time: 15.703 s
+
+The average is: 157.00
+Time: 15.803 s
+
+The average is: 158.00
+Time: 15.903 s
+
+The average is: 159.00
+Time: 16.003 s
+
+The average is: 160.00
+Time: 16.103 s
+
+The average is: 161.00
+Time: 16.203 s
+
+The average is: 162.00
+Time: 16.303 s
+
+The average is: 163.00
+Time: 16.403 s
+
+The average is: 164.00
+Time: 16.503 s
+
+The average is: 165.00
+Time: 16.603 s
+
+The average is: 166.00
+Time: 16.703 s
+
+The average is: 167.00
+Time: 16.803 s
+
+The average is: 168.00
+Time: 16.903 s
+
+The average is: 169.00
+Time: 17.003 s
+
+The average is: 170.00
+Time: 17.103 s
+
+The average is: 171.00
+Time: 17.203 s
+
+The average is: 172.00
+Time: 17.303 s
+
+The average is: 173.00
+Time: 17.403 s
+
+The average is: 174.00
+Time: 17.503 s
+
+The average is: 175.00
+Time: 17.603 s
+
+The average is: 176.00
+Time: 17.703 s
+
+The average is: 177.00
+Time: 17.803 s
+
+The average is: 178.00
+Time: 17.903 s
+
+The average is: 179.00
+Time: 18.003 s
+
+The average is: 180.00
+Time: 18.103 s
+
+The average is: 181.00
+Time: 18.203 s
+
+The average is: 182.00
+Time: 18.303 s
+
+The average is: 183.00
+Time: 18.403 s
+
+The average is: 184.00
+Time: 18.503 s
+
+The average is: 185.00
+Time: 18.603 s
+
+The average is: 186.00
+Time: 18.703 s
+
+The average is: 187.00
+Time: 18.803 s
+
+The average is: 188.00
+Time: 18.903 s
+
+The average is: 189.00
+Time: 19.003 s
+
+The average is: 190.00
+Time: 19.103 s
+
+The average is: 191.00
+Time: 19.203 s
+
+The average is: 192.00
+Time: 19.303 s
+
+The average is: 193.00
+Time: 19.403 s
+
+The average is: 194.00
+Time: 19.503 s
+
+The average is: 195.00
+Time: 19.603 s
+
+The average is: 196.00
+Time: 19.703 s
+
+The average is: 197.00
+Time: 19.803 s
+
+The average is: 198.00
+Time: 19.903 s
+
+The average is: 199.00
+Time: 20.003 s
+
+The average is: 200.00
+Time: 20.103 s
+
+The average is: 201.00
+Time: 20.203 s
+
+The average is: 202.00
+Time: 20.303 s
+
+The average is: 203.00
+Time: 20.403 s
+
+The average is: 204.00
+Time: 20.503 s
+
+The average is: 205.00
+Time: 20.603 s
+
+The average is: 206.00
+Time: 20.703 s
+
+The average is: 207.00
+Time: 20.803 s
+
+The average is: 208.00
+Time: 20.903 s
+
+The average is: 209.00
+Time: 21.003 s
+
+The average is: 210.00
+Time: 21.103 s
+
+The average is: 211.00
+Time: 21.203 s
+
+The average is: 212.00
+Time: 21.303 s
+
+The average is: 213.00
+Time: 21.403 s
+
+The average is: 214.00
+Time: 21.503 s
+
+The average is: 215.00
+Time: 21.603 s
+
+The average is: 216.00
+Time: 21.703 s
+
+The average is: 217.00
+Time: 21.803 s
+
+The average is: 218.00
+Time: 21.903 s
+
+The average is: 219.00
+Time: 22.003 s
+
+The average is: 220.00
+Time: 22.103 s
+
+The average is: 221.00
+Time: 22.203 s
+
+The average is: 222.00
+Time: 22.303 s
+
+The average is: 223.00
+Time: 22.403 s
+
+The average is: 224.00
+Time: 22.503 s
+
+The average is: 225.00
+Time: 22.603 s
+
+The average is: 226.00
+Time: 22.703 s
+
+The average is: 227.00
+Time: 22.803 s
+
+The average is: 228.00
+Time: 22.903 s
+
+The average is: 229.00
+Time: 23.003 s
+
+The average is: 230.00
+Time: 23.103 s
+
+The average is: 231.00
+Time: 23.203 s
+
+The average is: 232.00
+Time: 23.303 s
+
+The average is: 233.00
+Time: 23.403 s
+
+The average is: 234.00
+Time: 23.503 s
+
+The average is: 235.00
+Time: 23.603 s
+
+The average is: 236.00
+Time: 23.703 s
+
+The average is: 237.00
+Time: 23.803 s
+
+The average is: 238.00
+Time: 23.903 s
+
+The average is: 239.00
+Time: 24.003 s
+
+The average is: 240.00
+Time: 24.103 s
+
+The average is: 241.00
+Time: 24.203 s
+
+The average is: 242.00
+Time: 24.303 s
+
+The average is: 243.00
+Time: 24.403 s
+
+The average is: 244.00
+Time: 24.503 s
+
+The average is: 245.00
+Time: 24.603 s
+
+The average is: 246.00
+Time: 24.703 s
+
+The average is: 247.00
+Time: 24.803 s
+
+The average is: 248.00
+Time: 24.903 s
+
+The average is: 249.00
+Time: 25.003 s
+
+The average is: 250.00
+Time: 25.103 s
+
+The average is: 251.00
+Time: 25.203 s
+
+The average is: 252.00
+Time: 25.303 s
+
+The average is: 253.00
+Time: 25.403 s
+
+The average is: 254.00
+Time: 25.503 s
+
+The average is: 255.00
+Time: 25.603 s
+
+The average is: 256.00
+Time: 25.703 s
+
+The average is: 257.00
+Time: 25.803 s
+
+The average is: 258.00
+Time: 25.903 s
+
+The average is: 259.00
+Time: 26.003 s
+
+The average is: 260.00
+Time: 26.103 s
+
+The average is: 261.00
+Time: 26.203 s
+
+The average is: 262.00
+Time: 26.303 s
+
+The average is: 263.00
+Time: 26.403 s
+
+The average is: 264.00
+Time: 26.503 s
+
+The average is: 265.00
+Time: 26.603 s
+
+The average is: 266.00
+Time: 26.703 s
+
+The average is: 267.00
+Time: 26.803 s
+
+The average is: 268.00
+Time: 26.903 s
+
+The average is: 269.00
+Time: 27.003 s
+
+The average is: 270.00
+Time: 27.103 s
+
+The average is: 271.00
+Time: 27.203 s
+
+The average is: 272.00
+Time: 27.303 s
+
+The average is: 273.00
+Time: 27.403 s
+
+The average is: 274.00
+Time: 27.503 s
+
+The average is: 275.00
+Time: 27.603 s
+
+The average is: 276.00
+Time: 27.703 s
+
+The average is: 277.00
+Time: 27.803 s
+
+The average is: 278.00
+Time: 27.903 s
+
+The average is: 279.00
+Time: 28.003 s
+
+The average is: 280.00
+Time: 28.103 s
+
+The average is: 281.00
+Time: 28.203 s
+
+The average is: 282.00
+Time: 28.303 s
+
+The average is: 283.00
+Time: 28.403 s
+
+The average is: 284.00
+Time: 28.503 s
+
+The average is: 285.00
+Time: 28.603 s
+
+The average is: 286.00
+Time: 28.703 s
+
+The average is: 287.00
+Time: 28.803 s
+
+The average is: 288.00
+Time: 28.903 s
+
+The average is: 289.00
+Time: 29.003 s
+
+The average is: 290.00
+Time: 29.103 s
+
+The average is: 291.00
+Time: 29.203 s
+
+The average is: 292.00
+Time: 29.303 s
+
+The average is: 293.00
+Time: 29.403 s
+
+The average is: 294.00
+Time: 29.503 s
+
+The average is: 295.00
+Time: 29.603 s
+
+The average is: 296.00
+Time: 29.703 s
+
+The average is: 297.00
+Time: 29.803 s
+
+The average is: 298.00
+Time: 29.903 s
+
+The average is: 299.00
+Time: 30.003 s
+
+The average is: 300.00
+Time: 30.103 s
+
+The average is: 301.00
+Time: 30.203 s
+
+The average is: 302.00
+Time: 30.303 s
+
+The average is: 303.00
+Time: 30.403 s
+
+The average is: 304.00
+Time: 30.503 s
+
+The average is: 305.00
+Time: 30.603 s
+
+The average is: 306.00
+Time: 30.703 s
+
+The average is: 307.00
+Time: 30.803 s
+
+The average is: 308.00
+Time: 30.903 s
+
+The average is: 309.00
+Time: 31.003 s
+
+The average is: 310.00
+Time: 31.103 s
+
+The average is: 311.00
+Time: 31.203 s
+
+The average is: 312.00
+Time: 31.303 s
+
+The average is: 313.00
+Time: 31.403 s
+
+The average is: 314.00
+Time: 31.503 s
+
+The average is: 315.00
+Time: 31.603 s
+
+The average is: 316.00
+Time: 31.703 s
+
+The average is: 317.00
+Time: 31.803 s
+
+The average is: 318.00
+Time: 31.903 s
+
+The average is: 319.00
+Time: 32.003 s
+
+The average is: 320.00
+Time: 32.103 s
+
+The average is: 321.00
+Time: 32.203 s
+
+The average is: 322.00
+Time: 32.303 s
+
+The average is: 323.00
+Time: 32.403 s
+
+The average is: 324.00
+Time: 32.503 s
+
+The average is: 325.00
+Time: 32.603 s
+
+The average is: 326.00
+Time: 32.703 s
+
+The average is: 327.00
+Time: 32.803 s
+
+The average is: 328.00
+Time: 32.903 s
+
+The average is: 329.00
+Time: 33.003 s
+
+The average is: 330.00
+Time: 33.103 s
+
+The average is: 331.00
+Time: 33.203 s
+
+The average is: 332.00
+Time: 33.303 s
+
+The average is: 333.00
+Time: 33.403 s
+
+The average is: 334.00
+Time: 33.503 s
+
+The average is: 335.00
+Time: 33.603 s
+
+The average is: 336.00
+Time: 33.703 s
+
+The average is: 337.00
+Time: 33.803 s
+
+The average is: 338.00
+Time: 33.903 s
+
+The average is: 339.00
+Time: 34.003 s
+
+The average is: 340.00
+Time: 34.103 s
+
+The average is: 341.00
+Time: 34.203 s
+
+The average is: 342.00
+Time: 34.303 s
+
+The average is: 343.00
+Time: 34.403 s
+
+The average is: 344.00
+Time: 34.503 s
+
+The average is: 345.00
+Time: 34.603 s
+
+The average is: 346.00
+Time: 34.703 s
+
+The average is: 347.00
+Time: 34.803 s
+
+The average is: 348.00
+Time: 34.903 s
+
+The average is: 349.00
+Time: 35.003 s
+
+The average is: 350.00
+Time: 35.103 s
+
+The average is: 351.00
+Time: 35.203 s
+
+The average is: 352.00
+Time: 35.303 s
+
+The average is: 353.00
+Time: 35.403 s
+
+The average is: 354.00
+Time: 35.503 s
+
+The average is: 355.00
+Time: 35.603 s
+
+The average is: 356.00
+Time: 35.703 s
+
+The average is: 357.00
+Time: 35.803 s
+
+The average is: 358.00
+Time: 35.903 s
+
+The average is: 359.00
+Time: 36.003 s
+
+The average is: 360.00
+Time: 36.103 s
+
+The average is: 361.00
+Time: 36.203 s
+
+The average is: 362.00
+Time: 36.303 s
+
+The average is: 363.00
+Time: 36.403 s
+
+The average is: 364.00
+Time: 36.503 s
+
+The average is: 365.00
+Time: 36.603 s
+
+The average is: 366.00
+Time: 36.703 s
+
+The average is: 367.00
+Time: 36.803 s
+
+The average is: 368.00
+Time: 36.903 s
+
+The average is: 369.00
+Time: 37.003 s
+
+The average is: 370.00
+Time: 37.103 s
+
+The average is: 371.00
+Time: 37.203 s
+
+The average is: 372.00
+Time: 37.303 s
+
+The average is: 373.00
+Time: 37.403 s
+
+The average is: 374.00
+Time: 37.503 s
+
+The average is: 375.00
+Time: 37.603 s
+
+The average is: 376.00
+Time: 37.703 s
+
+The average is: 377.00
+Time: 37.803 s
+
+The average is: 378.00
+Time: 37.903 s
+
+The average is: 379.00
+Time: 38.003 s
+
+The average is: 380.00
+Time: 38.103 s
+
+The average is: 381.00
+Time: 38.203 s
+
+The average is: 382.00
+Time: 38.303 s
+
+The average is: 383.00
+Time: 38.403 s
+
+The average is: 384.00
+Time: 38.503 s
+
+The average is: 385.00
+Time: 38.603 s
+
+The average is: 386.00
+Time: 38.703 s
+
+The average is: 387.00
+Time: 38.803 s
+
+The average is: 388.00
+Time: 38.903 s
+
+The average is: 389.00
+Time: 39.003 s
+
+The average is: 390.00
+Time: 39.103 s
+
+The average is: 391.00
+Time: 39.203 s
+
+The average is: 392.00
+Time: 39.303 s
+
+The average is: 393.00
+Time: 39.403 s
+
+The average is: 394.00
+Time: 39.503 s
+
+The average is: 395.00
+Time: 39.603 s
+
+The average is: 396.00
+Time: 39.703 s
+
+The average is: 397.00
+Time: 39.803 s
+
+The average is: 398.00
+Time: 39.903 s
+
+The average is: 399.00
+Time: 40.003 s
+
+The average is: 400.00
+Time: 40.103 s
+
+The average is: 401.00
+Time: 40.203 s
+
+The average is: 402.00
+Time: 40.303 s
+
+The average is: 403.00
+Time: 40.403 s
+
+The average is: 404.00
+Time: 40.503 s
+
+The average is: 405.00
+Time: 40.603 s
+
+The average is: 406.00
+Time: 40.703 s
+
+The average is: 407.00
+Time: 40.803 s
+
+The average is: 408.00
+Time: 40.903 s
+
+The average is: 409.00
+Time: 41.003 s
+
+The average is: 410.00
+Time: 41.103 s
+
+The average is: 411.00
+Time: 41.203 s
+
+The average is: 412.00
+Time: 41.303 s
+
+The average is: 413.00
+Time: 41.403 s
+
+The average is: 414.00
+Time: 41.503 s
+
+The average is: 415.00
+Time: 41.603 s
+
+The average is: 416.00
+Time: 41.703 s
+
+The average is: 417.00
+Time: 41.803 s
+
+The average is: 418.00
+Time: 41.903 s
+
+The average is: 419.00
+Time: 42.003 s
+
+The average is: 420.00
+Time: 42.103 s
+
+The average is: 421.00
+Time: 42.203 s
+
+The average is: 422.00
+Time: 42.303 s
+
+The average is: 423.00
+Time: 42.403 s
+
+The average is: 424.00
+Time: 42.503 s
+
+The average is: 425.00
+Time: 42.603 s
+
+The average is: 426.00
+Time: 42.703 s
+
+The average is: 427.00
+Time: 42.803 s
+
+The average is: 428.00
+Time: 42.903 s
+
+The average is: 429.00
+Time: 43.003 s
+
+The average is: 430.00
+Time: 43.103 s
+
+The average is: 431.00
+Time: 43.203 s
+
+The average is: 432.00
+Time: 43.303 s
+
+The average is: 433.00
+Time: 43.403 s
+
+The average is: 434.00
+Time: 43.503 s
+
+The average is: 435.00
+Time: 43.603 s
+
+The average is: 436.00
+Time: 43.703 s
+
+The average is: 437.00
+Time: 43.803 s
+
+The average is: 438.00
+Time: 43.903 s
+
+The average is: 439.00
+Time: 44.003 s
+
+The average is: 440.00
+Time: 44.103 s
+
+The average is: 441.00
+Time: 44.203 s
+
+The average is: 442.00
+Time: 44.303 s
+
+The average is: 443.00
+Time: 44.403 s
+
+The average is: 444.00
+Time: 44.503 s
+
+The average is: 445.00
+Time: 44.603 s
+
+The average is: 446.00
+Time: 44.703 s
+
+The average is: 447.00
+Time: 44.803 s
+
+The average is: 448.00
+Time: 44.903 s
+
+The average is: 449.00
+Time: 45.003 s
+
+The average is: 450.00
+Time: 45.103 s
+
+The average is: 451.00
+Time: 45.203 s
+
+The average is: 452.00
+Time: 45.303 s
+
+The average is: 453.00
+Time: 45.403 s
+
+The average is: 454.00
+Time: 45.503 s
+
+The average is: 455.00
+Time: 45.603 s
+
+The average is: 456.00
+Time: 45.703 s
+
+The average is: 457.00
+Time: 45.803 s
+
+The average is: 458.00
+Time: 45.903 s
+
+The average is: 459.00
+Time: 46.003 s
+
+The average is: 460.00
+Time: 46.103 s
+
+The average is: 461.00
+Time: 46.203 s
+
+The average is: 462.00
+Time: 46.303 s
+
+The average is: 463.00
+Time: 46.403 s
+
+The average is: 464.00
+Time: 46.503 s
+
+The average is: 465.00
+Time: 46.603 s
+
+The average is: 466.00
+Time: 46.703 s
+
+The average is: 467.00
+Time: 46.803 s
+
+The average is: 468.00
+Time: 46.903 s
+
+The average is: 469.00
+Time: 47.003 s
+
+The average is: 470.00
+Time: 47.103 s
+
+The average is: 471.00
+Time: 47.203 s
+
+The average is: 472.00
+Time: 47.303 s
+
+The average is: 473.00
+Time: 47.403 s
+
+The average is: 474.00
+Time: 47.503 s
+
+The average is: 475.00
+Time: 47.603 s
+
+The average is: 476.00
+Time: 47.703 s
+
+The average is: 477.00
+Time: 47.803 s
+
+The average is: 478.00
+Time: 47.903 s
+
+The average is: 479.00
+Time: 48.003 s
+
+The average is: 480.00
+Time: 48.103 s
+
+The average is: 481.00
+Time: 48.203 s
+
+The average is: 482.00
+Time: 48.303 s
+
+The average is: 483.00
+Time: 48.403 s
+
+The average is: 484.00
+Time: 48.503 s
+
+The average is: 485.00
+Time: 48.603 s
+
+The average is: 486.00
+Time: 48.703 s
+
+The average is: 487.00
+Time: 48.803 s
+
+The average is: 488.00
+Time: 48.903 s
+
+The average is: 489.00
+Time: 49.003 s
+
+The average is: 490.00
+Time: 49.103 s
+
+The average is: 491.00
+Time: 49.203 s
+
+The average is: 492.00
+Time: 49.303 s
+
+The average is: 493.00
+Time: 49.403 s
+
+The average is: 494.00
+Time: 49.503 s
+
+The average is: 495.00
+Time: 49.603 s
+
+The average is: 496.00
+Time: 49.703 s
+
+The average is: 497.00
+Time: 49.803 s
+
+The average is: 498.00
+Time: 49.903 s
+
+The average is: 499.00
+Time: 50.003 s
+
+The average is: 500.00
+Time: 50.103 s
+
+The average is: 501.00
+Time: 50.203 s
+
+The average is: 502.00
+Time: 50.303 s
+
+The average is: 503.00
+Time: 50.403 s
+
+The average is: 504.00
+Time: 50.503 s
+
+The average is: 505.00
+Time: 50.603 s
+
+The average is: 506.00
+Time: 50.703 s
+
+The average is: 507.00
+Time: 50.803 s
+
+The average is: 508.00
+Time: 50.903 s
+
+The average is: 509.00
+Time: 51.003 s
+
+The average is: 510.00
+Time: 51.103 s
+
+The average is: 511.00
+Time: 51.203 s
+
+The average is: 512.00
+Time: 51.303 s
+
+The average is: 513.00
+Time: 51.403 s
+
+The average is: 514.00
+Time: 51.503 s
+
+The average is: 515.00
+Time: 51.603 s
+
+The average is: 516.00
+Time: 51.703 s
+
+The average is: 517.00
+Time: 51.803 s
+
+The average is: 518.00
+Time: 51.903 s
+
+The average is: 519.00
+Time: 52.003 s
+
+The average is: 520.00
+Time: 52.103 s
+
+The average is: 521.00
+Time: 52.203 s
+
+The average is: 522.00
+Time: 52.303 s
+
+The average is: 523.00
+Time: 52.403 s
+
+The average is: 524.00
+Time: 52.503 s
+
+The average is: 525.00
+Time: 52.603 s
+
+The average is: 526.00
+Time: 52.703 s
+
+The average is: 527.00
+Time: 52.803 s
+
+The average is: 528.00
+Time: 52.903 s
+
+The average is: 529.00
+Time: 53.003 s
+
+The average is: 530.00
+Time: 53.103 s
+
+The average is: 531.00
+Time: 53.203 s
+
+The average is: 532.00
+Time: 53.303 s
+
+The average is: 533.00
+Time: 53.403 s
+
+The average is: 534.00
+Time: 53.503 s
+
+The average is: 535.00
+Time: 53.603 s
+
+The average is: 536.00
+Time: 53.703 s
+
+The average is: 537.00
+Time: 53.803 s
+
+The average is: 538.00
+Time: 53.903 s
+
+The average is: 539.00
+Time: 54.003 s
+
+The average is: 540.00
+Time: 54.103 s
+
+The average is: 541.00
+Time: 54.203 s
+
+The average is: 542.00
+Time: 54.303 s
+
+The average is: 543.00
+Time: 54.403 s
+
+The average is: 544.00
+Time: 54.503 s
+
+The average is: 545.00
+Time: 54.603 s
+
+The average is: 546.00
+Time: 54.703 s
+
+The average is: 547.00
+Time: 54.803 s
+
+The average is: 548.00
+Time: 54.903 s
+
+The average is: 549.00
+Time: 55.003 s
+
+The average is: 550.00
+Time: 55.103 s
+
+The average is: 551.00
+Time: 55.203 s
+
+The average is: 552.00
+Time: 55.303 s
+
+The average is: 553.00
+Time: 55.403 s
+
+The average is: 554.00
+Time: 55.503 s
+
+The average is: 555.00
+Time: 55.603 s
+
+The average is: 556.00
+Time: 55.703 s
+
+The average is: 557.00
+Time: 55.803 s
+
+The average is: 558.00
+Time: 55.903 s
+
+The average is: 559.00
+Time: 56.003 s
+
+The average is: 560.00
+Time: 56.103 s
+
+The average is: 561.00
+Time: 56.203 s
+
+The average is: 562.00
+Time: 56.303 s
+
+The average is: 563.00
+Time: 56.403 s
+
+The average is: 564.00
+Time: 56.503 s
+
+The average is: 565.00
+Time: 56.603 s
+
+The average is: 566.00
+Time: 56.703 s
+
+The average is: 567.00
+Time: 56.803 s
+
+The average is: 568.00
+Time: 56.903 s
+
+The average is: 569.00
+Time: 57.003 s
+
+The average is: 570.00
+Time: 57.103 s
+
+The average is: 571.00
+Time: 57.203 s
+
+The average is: 572.00
+Time: 57.303 s
+
+The average is: 573.00
+Time: 57.403 s
+
+The average is: 574.00
+Time: 57.503 s
+
+The average is: 575.00
+Time: 57.603 s
+
+The average is: 576.00
+Time: 57.703 s
+
+The average is: 577.00
+Time: 57.803 s
+
+The average is: 578.00
+Time: 57.903 s
+
+The average is: 579.00
+Time: 58.003 s
+
+The average is: 580.00
+Time: 58.103 s
+
+The average is: 581.00
+Time: 58.203 s
+
+The average is: 582.00
+Time: 58.303 s
+
+The average is: 583.00
+Time: 58.403 s
+
+The average is: 584.00
+Time: 58.503 s
+
+The average is: 585.00
+Time: 58.603 s
+
+The average is: 586.00
+Time: 58.703 s
+
+The average is: 587.00
+Time: 58.803 s
+
+The average is: 588.00
+Time: 58.903 s
+
+The average is: 589.00
+Time: 59.003 s
+
+The average is: 590.00
+Time: 59.103 s
+
+The average is: 591.00
+Time: 59.203 s
+
+The average is: 592.00
+Time: 59.303 s
+
+The average is: 593.00
+Time: 59.403 s
+
+The average is: 594.00
+Time: 59.503 s
+
+The average is: 595.00
+Time: 59.603 s
+
+The average is: 596.00
+Time: 59.703 s
+
+The average is: 597.00
+Time: 59.803 s
+
+The average is: 598.00
+Time: 59.903 s
+
+The average is: 599.00
+Time: 60.003 s
+
+The average is: 600.00
+Time: 60.103 s
+
+The average is: 601.00
+Time: 60.203 s
+
+The average is: 602.00
+Time: 60.303 s
+
+The average is: 603.00
+Time: 60.403 s
+
+The average is: 604.00
+Time: 60.503 s
+
+The average is: 605.00
+Time: 60.603 s
+
+The average is: 606.00
+Time: 60.703 s
+
+The average is: 607.00
+Time: 60.803 s
+
+The average is: 608.00
+Time: 60.903 s
+
+The average is: 609.00
+Time: 61.003 s
+
+The average is: 610.00
+Time: 61.103 s
+
+The average is: 611.00
+Time: 61.203 s
+
+The average is: 612.00
+Time: 61.303 s
+
+The average is: 613.00
+Time: 61.403 s
+
+The average is: 614.00
+Time: 61.503 s
+
+The average is: 615.00
+Time: 61.603 s
+
+The average is: 616.00
+Time: 61.703 s
+
+The average is: 617.00
+Time: 61.803 s
+
+The average is: 618.00
+Time: 61.903 s
+
+The average is: 619.00
+Time: 62.003 s
+
+The average is: 620.00
+Time: 62.103 s
+
+The average is: 621.00
+Time: 62.203 s
+
+The average is: 622.00
+Time: 62.303 s
+
+The average is: 623.00
+Time: 62.403 s
+
+The average is: 624.00
+Time: 62.503 s
+
+The average is: 625.00
+Time: 62.603 s
+
+The average is: 626.00
+Time: 62.703 s
+
+The average is: 627.00
+Time: 62.803 s
+
+The average is: 628.00
+Time: 62.903 s
+
+The average is: 629.00
+Time: 63.003 s
+
+The average is: 630.00
+Time: 63.103 s
+
+The average is: 631.00
+Time: 63.203 s
+
+The average is: 632.00
+Time: 63.303 s
+
+The average is: 633.00
+Time: 63.403 s
+
+The average is: 634.00
+Time: 63.503 s
+
+The average is: 635.00
+Time: 63.603 s
+
+The average is: 636.00
+Time: 63.703 s
+
+The average is: 637.00
+Time: 63.803 s
+
+The average is: 638.00
+Time: 63.903 s
+
+The average is: 639.00
+Time: 64.003 s
+
+The average is: 640.00
+Time: 64.103 s
+
+The average is: 641.00
+Time: 64.203 s
+
+The average is: 642.00
+Time: 64.303 s
+
+The average is: 643.00
+Time: 64.403 s
+
+The average is: 644.00
+Time: 64.503 s
+
+The average is: 645.00
+Time: 64.603 s
+
+The average is: 646.00
+Time: 64.703 s
+
+The average is: 647.00
+Time: 64.803 s
+
+The average is: 648.00
+Time: 64.903 s
+
+The average is: 649.00
+Time: 65.003 s
+
+The average is: 650.00
+Time: 65.103 s
+
+The average is: 651.00
+Time: 65.203 s
+
+The average is: 652.00
+Time: 65.303 s
+
+The average is: 653.00
+Time: 65.403 s
+
+The average is: 654.00
+Time: 65.503 s
+
+The average is: 655.00
+Time: 65.603 s
+
+The average is: 656.00
+Time: 65.703 s
+
+The average is: 657.00
+Time: 65.803 s
+
+The average is: 658.00
+Time: 65.903 s
+
+The average is: 659.00
+Time: 66.003 s
+
+The average is: 660.00
+Time: 66.103 s
+
+The average is: 661.00
+Time: 66.203 s
+
+The average is: 662.00
+Time: 66.303 s
+
+The average is: 663.00
+Time: 66.403 s
+
+The average is: 664.00
+Time: 66.503 s
+
+The average is: 665.00
+Time: 66.603 s
+
+The average is: 666.00
+Time: 66.703 s
+
+The average is: 667.00
+Time: 66.803 s
+
+The average is: 668.00
+Time: 66.903 s
+
+The average is: 669.00
+Time: 67.003 s
+
+The average is: 670.00
+Time: 67.103 s
+
+The average is: 671.00
+Time: 67.203 s
+
+The average is: 672.00
+Time: 67.303 s
+
+The average is: 673.00
+Time: 67.403 s
+
+The average is: 674.00
+Time: 67.503 s
+
+The average is: 675.00
+Time: 67.603 s
+
+The average is: 676.00
+Time: 67.703 s
+
+The average is: 677.00
+Time: 67.803 s
+
+The average is: 678.00
+Time: 67.903 s
+
+The average is: 679.00
+Time: 68.003 s
+
+The average is: 680.00
+Time: 68.103 s
+
+The average is: 681.00
+Time: 68.203 s
+
+The average is: 682.00
+Time: 68.303 s
+
+The average is: 683.00
+Time: 68.403 s
+
+The average is: 684.00
+Time: 68.503 s
+
+The average is: 685.00
+Time: 68.603 s
+
+The average is: 686.00
+Time: 68.703 s
+
+The average is: 687.00
+Time: 68.803 s
+
+The average is: 688.00
+Time: 68.903 s
+
+The average is: 689.00
+Time: 69.003 s
+
+The average is: 690.00
+Time: 69.103 s
+
+The average is: 691.00
+Time: 69.203 s
+
+The average is: 692.00
+Time: 69.303 s
+
+The average is: 693.00
+Time: 69.403 s
+
+The average is: 694.00
+Time: 69.503 s
+
+The average is: 695.00
+Time: 69.603 s
+
+The average is: 696.00
+Time: 69.703 s
+
+The average is: 697.00
+Time: 69.803 s
+
+The average is: 698.00
+Time: 69.903 s
+
+The average is: 699.00
+Time: 70.003 s
+
+The average is: 700.00
+Time: 70.103 s
+
+The average is: 701.00
+Time: 70.203 s
+
+The average is: 702.00
+Time: 70.303 s
+
+The average is: 703.00
+Time: 70.403 s
+
+The average is: 704.00
+Time: 70.503 s
+
+The average is: 705.00
+Time: 70.603 s
+
+The average is: 706.00
+Time: 70.703 s
+
+The average is: 707.00
+Time: 70.803 s
+
+The average is: 708.00
+Time: 70.903 s
+
+The average is: 709.00
+Time: 71.003 s
+
+The average is: 710.00
+Time: 71.103 s
+
+The average is: 711.00
+Time: 71.203 s
+
+The average is: 712.00
+Time: 71.303 s
+
+The average is: 713.00
+Time: 71.403 s
+
+The average is: 714.00
+Time: 71.503 s
+
+The average is: 715.00
+Time: 71.603 s
+
+The average is: 716.00
+Time: 71.703 s
+
+The average is: 717.00
+Time: 71.803 s
+
+The average is: 718.00
+Time: 71.903 s
+
+The average is: 719.00
+Time: 72.003 s
+
+The average is: 720.00
+Time: 72.103 s
+
+The average is: 721.00
+Time: 72.203 s
+
+The average is: 722.00
+Time: 72.303 s
+
+The average is: 723.00
+Time: 72.403 s
+
+The average is: 724.00
+Time: 72.503 s
+
+The average is: 725.00
+Time: 72.603 s
+
+The average is: 726.00
+Time: 72.703 s
+
+The average is: 727.00
+Time: 72.803 s
+
+The average is: 728.00
+Time: 72.903 s
+
+The average is: 729.00
+Time: 73.003 s
+
+The average is: 730.00
+Time: 73.103 s
+
+The average is: 731.00
+Time: 73.203 s
+
+The average is: 732.00
+Time: 73.303 s
+
+The average is: 733.00
+Time: 73.403 s
